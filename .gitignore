@@ -1,0 +1,16 @@
+KineticJPEG/output/*
+KineticJPEG/redist/release/*
+*.ddp
+*.dsk
+KineticJPEG/release/*
+KineticJPEG/source/CSOURCE/*
+KineticJPEG/source/EnCLib.pas
+KineticJPEG/source/EnCRtl.pas
+KineticJPEG/source/EnDiGrph.pas
+KineticJPEG/source/EnGbm.pas
+KineticJPEG/source/EnIcoGr.pas
+KineticJPEG/source/EnJpgGr.pas
+KineticJPEG/source/EnMisc.pas
+KineticJPEG/source/ENMSG.PAS
+KineticJPEG/source/ENVISION.INC
+KineticJPEG/source/envision.obj
